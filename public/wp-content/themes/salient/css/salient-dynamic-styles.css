@@ -409,7 +409,7 @@ body.original .bypostauthor .comment-body:before,
 .widget_layered_nav ul.yith-wcan-label li a:hover, 
 .widget_layered_nav ul.yith-wcan-label .chosen a, 
 .nectar-next-section-wrap.bounce a:before,
-body .nectar-button.see-through-2[data-hover-color-override="false"]:hover  , .woocommerce ul.products li.product .onsale, .woocommerce-page ul.products li.product .onsale, .woocommerce span.onsale, .woocommerce-page span.onsale, .woocommerce .product-wrap .add_to_cart_button.added, .single-product .facebook-share a:hover, .single-product .twitter-share a:hover, .single-product .pinterest-share a:hover, .woocommerce-message, .woocommerce-error, .woocommerce-info, .woocommerce .chzn-container .chzn-results .highlighted, .woocommerce .chosen-container .chosen-results .highlighted, .woocommerce a.button:hover, .woocommerce-page a.button:hover, .woocommerce button.button:hover, .woocommerce-page button.button:hover, .woocommerce input.button:hover, .woocommerce-page input.button:hover, .woocommerce #respond input#submit:hover, .woocommerce-page #respond input#submit:hover, .woocommerce #content input.button:hover, .woocommerce-page #content input.button:hover, .woocommerce .widget_price_filter .ui-slider .ui-slider-range, .woocommerce-page .widget_price_filter .ui-slider .ui-slider-range, .ascend.woocommerce .widget_price_filter .ui-slider .ui-slider-range, .ascend.woocommerce-page .widget_price_filter .ui-slider .ui-slider-range, .woocommerce #sidebar div ul li a:hover ~ .count, .woocommerce #sidebar div ul .current-cat > .count, body[data-fancy-form-rcs="1"] .select2-container--default .select2-selection--single:hover, body[data-fancy-form-rcs="1"] .select2-container--default.select2-container--open .select2-selection--single, .woocommerce .widget_price_filter .ui-slider .ui-slider-range, .material.woocommerce-page .widget_price_filter .ui-slider .ui-slider-range, .woocommerce-account .woocommerce-form-login button.button, .woocommerce-account .woocommerce-form-register button.button, .woocommerce.widget_price_filter .price_slider:not(.ui-slider):before, .woocommerce.widget_price_filter .price_slider:not(.ui-slider):after , .woocommerce.widget_price_filter .price_slider:not(.ui-slider), body .woocommerce.add_to_cart_inline a.button.add_to_cart_button, .woocommerce table.cart a.remove:hover, .woocommerce #content table.cart a.remove:hover, .woocommerce-page table.cart a.remove:hover, .woocommerce-page #content table.cart a.remove:hover, .woocommerce-page .woocommerce p.return-to-shop a.wc-backward, .woocommerce .yith-wcan-reset-navigation.button 
+body .nectar-button.see-through-2[data-hover-color-override="false"]:hover  
 {
 	background-color:#0e2f50!important;
 }
@@ -1510,18 +1510,7 @@ body .dark .testimonial_slider[data-style="multiple_visible"][data-color*="accen
 					 background-color: rgba(255,255,255,100); 
 				 }.material #header-outer:not(.transparent) .bg-color-stripe { 
 					 display: none; 
-				 }
-			 #search-outer .ui-widget-content, 
-			 body:not([data-header-format="left-header"]) #top .sf-menu li ul, 
-			 #top nav > ul > .megamenu > .sub-menu,
-			 body #top nav > ul > .megamenu > .sub-menu > li > a, 
-			 #header-outer .widget_shopping_cart .cart_list a, 
-			 #header-secondary-outer ul ul li a, 
-			 #header-outer .widget_shopping_cart .cart_list li, 
-			 .woocommerce .cart-notification, 
-			 #header-outer .widget_shopping_cart_content { 
-					background-color: rgba(255,255,255,0.30)!important; 
-				} .portfolio-loading, #ajax-loading-screen .loading-icon, .loading-icon, .pp_loaderIcon { background-image: url(""); } @media only screen and (min-width: 1000px) and (max-width: 1300px) {
+				 } .portfolio-loading, #ajax-loading-screen .loading-icon, .loading-icon, .pp_loaderIcon { background-image: url(""); } @media only screen and (min-width: 1000px) and (max-width: 1300px) {
 	    .nectar-slider-wrap[data-full-width="true"] .swiper-slide .content h2, 
 	    .nectar-slider-wrap[data-full-width="boxed-full-width"] .swiper-slide .content h2,
 	    .full-width-content .vc_span12 .swiper-slide .content h2 {
